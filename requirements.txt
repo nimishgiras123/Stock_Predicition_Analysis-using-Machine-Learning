@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+matplotlib
+mplfinance
+yfinance 
+pandas
+nselib
+scikit-learn
+
+
